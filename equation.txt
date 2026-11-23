@@ -2,11 +2,11 @@ début
     saisie de a, b, c
     calculer d = b2-4ac
     si d<0
-
+    
     sinon, si d < 0
 
     Sinon (d=0)
-    
+
     finSi
     afficher les solutions
 fin
